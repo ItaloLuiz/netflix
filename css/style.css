@@ -5,12 +5,12 @@
 }
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300,400;500;700&display=swap");
 body {
-  background: 
-      /* top, transparent red, faked with gradient */ linear-gradient(
+  background:      
+  linear-gradient(
       rgba(0, 0, 0, 0.534),
       rgba(0, 0, 0, 0.534)
-    ),
-    /* bottom, image */ url(../img/netflix-bg.jpg);
+    ),    
+    url(../img/netflix-bg.jpg);
   min-height: 100%;
   width: 100%;
   background-size: cover;
